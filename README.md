@@ -1,0 +1,1 @@
+# python-strength-of-materials
